@@ -1,0 +1,44 @@
+header{
+    background-color: #313338;
+    border-bottom: 4px solid #8a8e97;
+}
+#header{
+    display: flex;
+    justify-content: center;
+}
+#header h3{
+    font-size: 22px;
+    width: 10vw;
+    text-align: center;
+    line-height: 90px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#header h3 a:hover{
+    text-decoration-line: underline;
+}
+nav{
+    width: 30%;
+}
+nav form input{
+    width: 25vw;
+    height: 40px;
+    border: 1px solid #1d1f22;
+    background-color: #2B2D31;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 24px;
+    margin-left: 60px;
+    color: white;
+    transition: 0.5s ease;
+}
+nav input:focus{
+    background-color: #41454e;
+    color: black;
+}
+header img{
+    width: 8%;
+    height: 80px;
+    margin-top: 7px;
+    margin-left: 5px;
+}

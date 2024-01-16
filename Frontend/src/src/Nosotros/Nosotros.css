@@ -1,0 +1,18 @@
+#nosotros{
+    width: 40%;
+    margin: 0 auto;
+    color: white;
+    background-color: #14161b;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+.nosotros{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+main{
+    padding-bottom: 133px;
+}
+h1{
+    padding-top: 80px;
+}
